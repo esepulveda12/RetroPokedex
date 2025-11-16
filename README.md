@@ -1,11 +1,11 @@
 # 🎮 Galería Pokémon - Álbum Interactivo
 
-Una aplicación React hermosa y kawaii para coleccionar Pokémon de la primera generación.
+Una aplicación React hermosa  para coleccionar Pokémon de la primera generación.
 
 ## ✨ Características
 
 - 📱 **Diseño Responsivo**: Funciona perfectamente en móviles, tablets y desktop
-- 🎨 **5 Temas Kawaii**: Cambia entre Purple Dream, Ocean Blue, Mint Green, Peach Dream y Cotton Candy
+- 🎨 **5 Temas: Cambia entre Purple Dream, Ocean Blue, Mint Green, Peach Dream y Cotton Candy
 - 🎮 **Estilo Retro Pixel**: Diseño completo tipo Game Boy con sprites pixelados
 - 📊 **Estadísticas en tiempo real**: Seguimiento de tu colección con barra de progreso
 - 💾 **Persistencia local**: Tu progreso se guarda automáticamente
